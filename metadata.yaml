@@ -1,0 +1,41 @@
+_repo: Cuentos-de-navidad-y-reyes-cuentos-de-la-patria-cuentos-antiguos_55812
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pardo Bazán, Emilia, condesa de
+    aliases:
+    - Bazán, Emilia, condesa de Pardo
+    - Bazán, Emilia Pardo, condesa de
+    - Pardo Bazan, Emilia, condesa de
+    birthdate: 1852
+    deathdate: 1921
+    gutenberg_agent_id: '6152'
+    url: http://www.gutenberg.org/2009/agents/6152
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+    - http://en.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+description: ''
+gutenberg_issued: '2017-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55812'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Spanish'
+- !lcsh 'Spanish fiction'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: 'Cuentos de Navidad y Reyes: La Nochebuena del Papa. La tentación
+  de Sor María. La Navidad del Peludo. Jesusa. Nochebuena de jugador. De Navidad.
+  Jesús en la tierra. El Belén. Página suelta. Dos cenas. La Nochebuena del carpintero.
+  El ciego. Los Magos. Sueños regios. La visión de los Reyes Magos. El rompecabezas.
+  En Semana Santa. La oración de Semana Santa -- Cuentos de la Patria: Vengadora.
+  El catecismo. El caballo blanco. La exangüe. La armadura. El Torreón de la Esperanza.
+  El Palacio frío. El Templo. El milagro de la diosa Durga. Entre razas -- Cuentos
+  antiguos: La paloma. Prejaspes. Zenana. La gota de cera. La palinodia. El mandil
+  de cuero. Los cabellos. Al buen callar. Fausto y Dafrosa.'
+title: Cuentos de navidad y reyes; cuentos de la patria; cuentos antiguos
+url: http://www.gutenberg.org/ebooks/55812
